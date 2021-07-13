@@ -5,6 +5,10 @@ import GoogleNews
 from GoogleNews import GoogleNews
 from colorama import Fore
 
+os.system(' clear ')
+print(" ENJOY :D !!!!! ")
+time.sleep(1)
+os.system(' clear ')
 time.sleep(0.1)
 print(Fore.CYAN+"`mMMMMMMMMMMMNmmdhy-")
 time.sleep(0.1)
